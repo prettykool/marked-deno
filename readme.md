@@ -8,7 +8,7 @@ For the full documentation, see: https://github.com/markedjs/marked/tree/master/
 
 ## Usage
 ```ts
-import 'https://deno.land/x/marked/mod.ts';
+import { marked } from 'https://deno.land/x/marked/mod.ts';
 
 marked.parse('Hello, World!');
 ```
