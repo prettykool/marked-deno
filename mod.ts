@@ -1,1 +1,2 @@
-import 'https://cdn.jsdelivr.net/npm/marked@latest/marked.min.js';
+// @deno-types="https://cdn.jsdelivr.net/npm/@types/marked@latest/index.d.ts"
+export * from "https://cdn.jsdelivr.net/npm/marked@latest/lib/marked.esm.js";
